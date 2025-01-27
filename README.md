@@ -4,7 +4,8 @@ The Disaster Alert System is a real-time monitoring platform that provides alert
 
 This system is built using Flask and allows users to receive updates. A database of users is maintained for clarity and organisation.
 
-Project Structure
-app.py - Main Flask app code
-requirements.txt - Dependencies
-README.md - Project documentation
+### Project Structure
+
+- `app.py` - Main Flask app code
+- `requirements.txt` - Python dependencies
+- `README.md` - Project documentation
